@@ -13,7 +13,7 @@ Change frequency of the current channel:
 
 Change volume : Switch 
 
-# PR4G/ER315 (Racké dans les véhicules) 
+# PR4G/ER315 (Vehicle racked) 
 
 ![ER315](er315.png)
 
