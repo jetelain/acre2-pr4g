@@ -1,0 +1,1 @@
+#include "\z\acrefr\addons\pr4g_er323\script_component.hpp"
