@@ -22,14 +22,3 @@ PRELOAD_ADDONS;
 #include "DialogDefines.hpp"
 #include "RadioDialogClasses.hpp"
 #include "er323_RadioDialog.hpp"
-
-class CfgVehicles {
-    class Helicopter;
-    class Helicopter_Base_F: Helicopter {
-        class AcreRacks {
-            class Rack_1 {
-                mountedRadio = "ACRE_ER323";
-            };
-        };
-    };
-};
