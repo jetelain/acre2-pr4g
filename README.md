@@ -1,2 +1,2 @@
-# acre2-pr4g
-French radios for ACRE2
+# French Army Radios for ACRE2
+By [1erGTD](https://www.1ergtd-reality.fr/)
