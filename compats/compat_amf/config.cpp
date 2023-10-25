@@ -11,7 +11,7 @@ class CfgPatches {
             "acrefr_pr4g_er315",
             "acrefr_pr4g_er323",
             "AMF_Heli_Transport_01",
-            "ffaa_nh90",  
+            "amf_nh90",  
             "amf_tigre",
             "ffaa_et_cougar",
             "AMF_light_helicopters",

@@ -14,9 +14,9 @@ class CfgVehicles {
         };
     };
 
-	// NH90 (ffaa_nh90)
+	// NH90 (amf_nh90)
 	class Helicopter_Base_H;
-	class ffaa_nh90_base : Helicopter_Base_H {
+	class amf_nh90_base : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
 				displayName="$STR_acre_sys_rack_dash";
@@ -42,8 +42,8 @@ class CfgVehicles {
         };
 	};
 
-	// Cougar (ffaa_et_cougar)
-	class ffaa_famet_cougar_base : Helicopter_Base_H {
+	// Cougar (amf_cougar)
+	class amf_cougar_base : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
 				displayName="$STR_acre_sys_rack_dash";
