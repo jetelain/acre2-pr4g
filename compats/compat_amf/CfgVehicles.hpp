@@ -5,8 +5,8 @@ class CfgVehicles {
     class AMF_Heli_Transport_01_base_F : Heli_Transport_base_F { 
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
@@ -19,8 +19,8 @@ class CfgVehicles {
 	class amf_nh90_base : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
@@ -33,11 +33,18 @@ class CfgVehicles {
 	class AMF_TIGRE_01_BASE : Helicopter_Base_F {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
+            };
+            class Rack_2 {
+				displayName="Rack AN/PRC-117F";
+                shortName="117F";
+                componentName="ACRE_VRC103";
+                allowedPositions[]={"driver", "gunner", "copilot"};
+                mountedRadio = "ACRE_PRC117F";
             };
         };
 	};
@@ -46,8 +53,8 @@ class CfgVehicles {
 	class amf_cougar_base : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
@@ -60,8 +67,8 @@ class CfgVehicles {
 	class AMF_Gazelle_afte_BASE : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
@@ -73,8 +80,8 @@ class CfgVehicles {
 	class AMF_gazelle_minigun_base : Helicopter_Base_H {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER323";
+                shortName="ER323";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "gunner", "copilot"};
                 mountedRadio = "ACRE_ER323";
@@ -87,8 +94,8 @@ class CfgVehicles {
     class AMF_AMX10_RCR_01_base_F : Wheeled_APC_F {
         class AcreRacks {
             class Rack_1 {
-                displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner"};
                 mountedRadio="ACRE_ER315";
@@ -102,8 +109,8 @@ class CfgVehicles {
     class AMF_leclerc_01_base_F : Tank_F {
         class AcreRacks {
             class Rack_1 {
-				displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner"};
                 mountedRadio="ACRE_ER315";
@@ -116,8 +123,8 @@ class CfgVehicles {
     class AMF_VBCI_BASE_01_F : Wheeled_APC_F {
         class AcreRacks {
             class Rack_1 {
-                displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner"};
                 mountedRadio="ACRE_ER315";
@@ -131,8 +138,8 @@ class CfgVehicles {
     class AMF_APC_Wheeled_03_base_F : APC_Wheeled_03_base_F {
         class AcreRacks {
             class Rack_1 {
-                displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner"};
                 mountedRadio="ACRE_ER315";
@@ -146,8 +153,8 @@ class CfgVehicles {
     class AMF_VBMR_01_BASE_F : APC_Wheeled_03_base_F {
         class AcreRacks {
             class Rack_1 {
-                displayName="$STR_acre_sys_rack_dash";
-                shortName="$STR_acre_sys_rack_dashShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner"};
                 mountedRadio="ACRE_ER315";
@@ -170,8 +177,8 @@ class CfgVehicles {
                 intercom[]={"intercom_1"};
             };
             class Rack_2 {
-                displayName="$STR_acre_sys_rack_dashLower";
-                shortName="$STR_acre_sys_rack_dashLowerShort";
+				displayName="Rack PR4G/ER135";
+                shortName="ER315";
                 componentName="ACRE_VRC103";
                 allowedPositions[]={"driver", "commander", "gunner", {"cargo", 0}};
                 mountedRadio="ACRE_ER315";
