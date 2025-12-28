@@ -119,7 +119,7 @@ class CfgVehicles {
         };
     };
 
-	// VBCI (AMF_TRANSPORT_VEHICLE_03, CfgPatches collide)
+	// VBCI (AMF_TRANSPORT_VEHICLE_07)
     class AMF_VBCI_BASE_01_F : Wheeled_APC_F {
         class AcreRacks {
             class Rack_1 {
@@ -133,7 +133,7 @@ class CfgVehicles {
         };
     };
 
-	// Jaguar (AMF_TRANSPORT_VEHICLE_03, CfgPatches collide)
+	// Jaguar (AMF_JAGUAR)
     class APC_Wheeled_03_base_F;
     class AMF_APC_Wheeled_03_base_F : APC_Wheeled_03_base_F {
         class AcreRacks {
@@ -149,8 +149,9 @@ class CfgVehicles {
     };
 
 
-	// Griffon HMG/Génie (AMF_TRANSPORT_VEHICLE_03, CfgPatches collide)
-    class AMF_VBMR_01_BASE_F : APC_Wheeled_03_base_F {
+	// Griffon HMG/Génie (AMF_TRANSPORT_VEHICLE_03)
+    class APC_Wheeled_03_v12_base_F;
+    class AMF_VBMR_01_BASE_F : APC_Wheeled_03_v12_base_F {
         class AcreRacks {
             class Rack_1 {
 				displayName="Rack PR4G/ER135";
@@ -163,9 +164,9 @@ class CfgVehicles {
         };
     };
 
-	// Griffon Commandement (AMF_TRANSPORT_VEHICLE_03, CfgPatches collide)
-    class MRAP_01_base_F;
-    class AMF_VBMR_02_BASE_F : MRAP_01_base_F {
+	// Griffon Commandement (AMF_TRANSPORT_VEHICLE_03)
+    class AMF_MRAP_01_base_F;
+    class AMF_VBMR_02_BASE_F : AMF_MRAP_01_base_F {
         class AcreRacks {
 			class Rack_1
             {

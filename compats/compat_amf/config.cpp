@@ -18,7 +18,8 @@ class CfgPatches {
             "AMF_AMX10_RCR",
             "AMF_TANK_01",
             "AMF_TRANSPORT_VEHICLE_03",
-            "AMF_TRANSPORT_VEHICLE_04"};
+            "AMF_TRANSPORT_VEHICLE_07",
+            "AMF_JAGUAR"};
         author = "GrueArbre";
         VERSION_CONFIG;
     };
